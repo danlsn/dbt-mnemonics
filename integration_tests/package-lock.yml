@@ -1,0 +1,4 @@
+packages:
+- local: ..
+  name: dbt_mnemonics
+sha1_hash: 10d3c9d5db524661c0cdd587bee3f5205b561191

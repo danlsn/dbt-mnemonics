@@ -1,0 +1,4 @@
+name: mnemonic_checks
+version: '0.1.0'
+config-version: 2
+profile: mnemonic_checks
